@@ -3,8 +3,9 @@ In this project, I've harnessed the robust capabilities of Power BI to analyse, 
 
 Hindustan Unilever Limited (HUL) is a British-owned company that is India's largest marketer of consumer products. HUL is a subsidiary of Unilever, a British-Dutch company that sells products in over 190 countries. HUL's products include food, beverages, cleaning agents, personal care products, water purifiers, and other fast-moving consumer goods (FMCGs). 
 
-[Power Bi HINDUSTAN_UNILIVER Stock trend analysis.pdf](https://github.com/m-rishab/Stock_trend-Analysis-Power-BI-project-/files/13941011/Power.Bi.HINDUSTAN_UNILIVER.Stock.trend.analysis.pdf)
-
+![Power Bi HINDUSTAN_UNILIVER Stock trend analysis-2](https://github.com/m-rishab/Stock_trend-Analysis-Power-BI-project-/assets/113618652/0df9d40b-bf58-4afd-899f-7088547ba7ca)
+![Power Bi HINDUSTAN_UNILIVER Stock trend analysis-3](https://github.com/m-rishab/Stock_trend-Analysis-Power-BI-project-/assets/113618652/5c9b7b0a-5744-46be-a891-1e9ce99a4fb6)
+![Power Bi HINDUSTAN_UNILIVER Stock trend analysis-1](https://github.com/m-rishab/Stock_trend-Analysis-Power-BI-project-/assets/113618652/94bd83d7-5069-473c-b4bd-4885cfaefec2)
 
 ## Analyzing Historical Stock Data with Power BI
 One of the essential aspects of stock movement analysis is analyzing historical data. Power BI enables users to import historical stock data and perform in-depth analysis. By visualizing historical stock prices, volume, and other relevant metrics, you can identify historical patterns and trends that may help predict future stock movements.
